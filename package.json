@@ -1,6 +1,6 @@
 {
   "name": "cut-ray",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CutRayの名刺",
   "main": "/bin/card.js",
   "bin": {

@@ -14,7 +14,7 @@ const options = {
 const data = {
   name: chalk.hex('#d09afd')('Cut Ray'),
   handle: chalk.hex('#d09afd')('frontend engineer?'),
-  university: chalk.green('Tokyo University of Science B2'),
+  university: chalk.green(' Tokyo University of Science B2'),
   work: chalk.hex('#e7b558')('株式会社フューチャーリンクネットワーク'),
   twitter: chalk.blue('https://twitter.com/pqppqqqppppp'),
   github: chalk.white('https://github.com/CutRay'),
@@ -36,7 +36,7 @@ const githubing = `${data.labelGitHub}  ${data.github}`
 const webing = `${data.labelWeb}  ${data.web}`
 
 
-const output = '            ' + heading + newline +
+const output = '             ' + heading + newline +
                newline + newline +
                universiting + newline + newline +
                working + newline + newline + 
