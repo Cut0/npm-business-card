@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {}
 }
