@@ -12,12 +12,12 @@ const options = {
 }
 
 const data = {
-  name: chalk.hex('#d09afd')('Cut Ray'),
+  name: chalk.hex('#d09afd')('Cut 0'),
   handle: chalk.hex('#d09afd')('frontend engineer?'),
   university: chalk.green(' Tokyo University of Science B2'),
   work: chalk.hex('#e7b558')('株式会社フューチャーリンクネットワーク'),
   twitter: chalk.blue('https://twitter.com/pqppqqqppppp'),
-  github: chalk.white('https://github.com/CutRay'),
+  github: chalk.white('https://github.com/Cut0'),
   web: chalk.cyan('https://portfolio-ray.web.app'),
   labelWork: chalk.hex('#e7b558').bold('       Work:'),
   labelUniversity: chalk.green.bold(' University:'),
